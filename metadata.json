@@ -1,0 +1,4 @@
+{
+  "name": "Solana DEX Order Engine Simulator",
+  "description": "A visual simulator for a Solana Order Execution Engine featuring DEX routing, concurrency queues, and real-time status updates."
+}
